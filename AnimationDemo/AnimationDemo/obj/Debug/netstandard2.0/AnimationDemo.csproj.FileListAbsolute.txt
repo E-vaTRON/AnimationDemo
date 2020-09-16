@@ -1,0 +1,14 @@
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\bin\Debug\netstandard2.0\AnimationDemo.deps.json
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\bin\Debug\netstandard2.0\AnimationDemo.dll
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\bin\Debug\netstandard2.0\ref\AnimationDemo.dll
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\bin\Debug\netstandard2.0\AnimationDemo.pdb
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\AnimationDemo.csprojAssemblyReference.cache
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\AnimationDemo.AssemblyInfoInputs.cache
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\AnimationDemo.AssemblyInfo.cs
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\AnimationDemo.csproj.CoreCompileInputs.cache
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\AnimationDemo.dll
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\ref\AnimationDemo.dll
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo\obj\Debug\netstandard2.0\AnimationDemo.pdb

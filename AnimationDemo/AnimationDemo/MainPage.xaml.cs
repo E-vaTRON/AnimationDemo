@@ -46,10 +46,10 @@ namespace AnimationDemo
         {
             return new ObservableCollection<Budget>
             {
-                new Budget { Name = "Food", Amount = 650, Color = Color.Blue, Image = "food.png" },
-                new Budget { Name = "Groceries", Amount = 1350, Color = Color.SlateBlue, Image = "grocery.png" },
-                new Budget { Name = "Transport", Amount = 170, Color = Color.Purple, Image = "transport.png" },
-                new Budget { Name = "Utilities", Amount = 750, Color = Color.PeachPuff, Image = "utilities.png" },
+                new Budget { Name = "Food", Amount = 650, Color = Color.Blue, Image = "FoodW.png" },
+                new Budget { Name = "Groceries", Amount = 1350, Color = Color.SlateBlue, Image = "GroceriesW.png" },
+                new Budget { Name = "Transport", Amount = 170, Color = Color.Purple, Image = "TransportW.png" },
+                new Budget { Name = "Utilities", Amount = 750, Color = Color.PeachPuff, Image = "UtilitiesW.png" },
             };
         }
     

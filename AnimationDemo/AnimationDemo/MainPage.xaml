@@ -30,11 +30,11 @@
                                 </Grid.ColumnDefinitions>
                                 <StackLayout x:Name="DetailsView" Grid.Column="1" VerticalOptions="Center" Padding="20,0" 
                                              TranslationX="-40" IsVisible="False">
-                                    <Label Text="{Binding Name}" FontSize="16" TextColor="White" FontAttributes="Bold"/>
-                                    <Label Text="{Binding Amount}, StringFormat='${0:N0}'}" FontSize="14" TextColor="White" FontAttributes="Bold"/>
+                                    <Label Text="{x:Binding Name}" FontSize="16" TextColor="White" FontAttributes="Bold"/>
+                                    <Label Text="{x:Binding Amount, StringFormat='${0:N0}'}" FontSize="14" TextColor="White" FontAttributes="Bold"/>
                                 </StackLayout>
                                 <BoxView CornerRadius="20" HeightRequest="70" WidthRequest="70" BackgroundColor="Black" Opacity="0.7"/>
-                                <Image Source="{Binding Image}" HeightRequest="30" WidthRequest="30" HorizontalOptions="Center" VerticalOptions="Center"/>
+                                <Image Source="{x:Binding Image}" HeightRequest="30" WidthRequest="30" HorizontalOptions="Center" VerticalOptions="Center"/>
                             </Grid>
                         </Grid>
                     </DataTemplate>

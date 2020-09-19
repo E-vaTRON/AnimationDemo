@@ -463,3 +463,14 @@ C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\ob
 C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\food.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\foodb.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\foodw.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\groceriesb.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\groceriesw.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\transport.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\transportb.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\transportw.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\utilities.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\utilitiesb.png
+C:\Users\onith\source\repos\AnimationDemo\AnimationDemo\AnimationDemo.Android\obj\Debug\90\res\drawable\utilitiesw.png
